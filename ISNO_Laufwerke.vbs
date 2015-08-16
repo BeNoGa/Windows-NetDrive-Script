@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+@@ -0,0 +1,155 @@
+>>>>>>> origin/master
 'BeNoGa - www.isno.ch
 'benoga@isno.ch
 'Last Update: 12.09.2013
@@ -152,4 +156,8 @@ Do While btn = vbRetry
 	WScript.Sleep 2000 
 Loop
 
+<<<<<<< HEAD
 'Fertig :)
+=======
+'Fertig :)
+>>>>>>> origin/master
